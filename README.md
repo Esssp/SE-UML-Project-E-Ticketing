@@ -25,5 +25,6 @@ The following UML diagrams are included in this project:
 - Class Diagram
 - Sequence Diagram
 - Activity Diagram
-- State Machine Diagram
+- State Chart Diagram
 - Component Diagram
+- Deployment Diagram
